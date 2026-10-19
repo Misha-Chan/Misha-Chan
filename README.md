@@ -1,38 +1,60 @@
+<!-- ═══════════════════════════════════════════════════════════
+     PROFILE README · Misha Chan
+     Edit the sections below, then: git commit -am "Update" && git push
+     ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- ======================= HEADER ======================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:58A6FF&height=180&section=header&text=Misha%20Chan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%" alt="Misha Chan" />
 
-<a href="https://github.com/Misha-Chan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Misha+Chan+%F0%9F%91%8B;Developer+%26+Builder;JavaScript+%7C+TypeScript+%7C+Java+%7C+Kotlin" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Developer+%26+Builder;JavaScript+%7C+TypeScript;Java+%7C+Kotlin;Always+shipping+something+new" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Misha-Chan&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Misha-Chan)
-[![Followers](https://img.shields.io/github/followers/Misha-Chan?label=Followers&style=flat-square&color=0e75b6)](https://github.com/Misha-Chan?tab=followers)
-[![Repositories](https://img.shields.io/badge/Repositories-20-0e75b6?style=flat-square&logo=github&logoColor=white)](https://github.com/Misha-Chan?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Misha-Chan&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/Misha-Chan)
+[![Followers](https://img.shields.io/github/followers/Misha-Chan?label=Followers&style=for-the-badge&color=0e75b6&logo=github)](https://github.com/Misha-Chan?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-20-0e75b6?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Misha-Chan?tab=repositories)
+[![Website](https://img.shields.io/badge/hostaka.fun-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hostaka.fun/profile?u=mishachan)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<!-- ═══════════════════════  ABOUT  ═══════════════════════ -->
 
-> **Developer who loves turning ideas into working software.**
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> &nbsp;About Me
 
-- 🔭 Currently building things on the **web** and on **Android**
-- 🌱 Always exploring new tools, frameworks and languages
-- 🎯 Focused on clean code, useful products and steady improvement
-- 🌐 Find me at **[hostaka.fun](https://hostaka.fun/profile?u=mishachan)**
-- ⚡ Fun fact: I ship more ideas than I can name 😄
+I'm a developer who enjoys turning rough ideas into software that people can actually use.
+Most of my work lives on the **web** and on **Android**, and I care about code that stays
+readable long after it's written.
 
----
-
-## 🛠️ Tech Stack
+```yaml
+name:     Misha Chan
+role:     Developer & Builder
+focus:    Web · Android · Tooling
+stack:    JavaScript · TypeScript · Java · Kotlin
+website:  https://hostaka.fun
+```
 
 <div align="center">
 
-**Languages**
+|  🔭 Building  |  🌱 Learning  |  🎯 Focus  |  ⚡ Fun fact  |
+| :---: | :---: | :---: | :---: |
+| Web & Android apps | New tools & frameworks | Clean, useful code | More ideas than time |
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
+
+## 🛠️ &nbsp;Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Languages-1f6feb?style=flat-square" height="22" alt="Languages" />
+
+<br/>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -41,13 +63,21 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Runtime & Frameworks**
+<br/>
+
+<img src="https://img.shields.io/badge/Runtime%20%26%20Frameworks-1f6feb?style=flat-square" height="22" alt="Runtime" />
+
+<br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Tools & Platforms**
+<br/>
+
+<img src="https://img.shields.io/badge/Tools%20%26%20Platforms-1f6feb?style=flat-square" height="22" alt="Tools" />
+
+<br/>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -56,63 +86,109 @@
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<!-- ═══════════════════════  PROJECTS  ═══════════════════════ -->
+
+## 🚀 &nbsp;Featured Projects
 
 <div align="center">
 
-| Project | Description | Stack |
-| :--- | :--- | :---: |
-| 🔮 **[Hermes](https://github.com/Misha-Chan/Hermes)** | A messenger / communication project | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🌐 **[hostaka](https://github.com/Misha-Chan/hostaka)** | Hosting platform & web services | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🛰️ **[orbithub](https://github.com/Misha-Chan/orbithub)** | Web app / platform | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| ✨ **[aethercast](https://github.com/Misha-Chan/aethercast)** | Streaming / casting project | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 🤖 **[Herman-S.Hunik](https://github.com/Misha-Chan/Herman-S.Hunik)** | Android assistant suite | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 📱 **[commin](https://github.com/Misha-Chan/commin)** | Communication app | ![TS](https://img.shields.io/badge/-TS-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Misha-Chan/Hermes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misha-Chan&repo=Hermes&theme=tokyonight&hide_border=true" alt="Hermes" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Misha-Chan/hostaka">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misha-Chan&repo=hostaka&theme=tokyonight&hide_border=true" alt="hostaka" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Misha-Chan/orbithub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misha-Chan&repo=orbithub&theme=tokyonight&hide_border=true" alt="orbithub" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Misha-Chan/aethercast">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misha-Chan&repo=aethercast&theme=tokyonight&hide_border=true" alt="aethercast" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Misha-Chan/commin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misha-Chan&repo=commin&theme=tokyonight&hide_border=true" alt="commin" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Misha-Chan/Herman-S.Hunik">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Misha-Chan&repo=Herman-S.Hunik&theme=tokyonight&hide_border=true" alt="Herman-S.Hunik" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+**[→ Browse all 20 repositories](https://github.com/Misha-Chan?tab=repositories)**
 
 </div>
-
-> 👉 See all of my work on my **[repositories page](https://github.com/Misha-Chan?tab=repositories)**.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Misha-Chan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misha-Chan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Misha-Chan&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<!-- ═══════════════════════  STATS  ═══════════════════════ -->
+
+## 📊 &nbsp;GitHub at a Glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Misha-Chan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misha-Chan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Misha-Chan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Misha-Chan&theme=tokyonight" alt="Profile Summary" />
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Misha-Chan&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+<!-- ═══════════════════════  CONNECT  ═══════════════════════ -->
 
-</div>
-
----
-
-## 📫 Connect With Me
+## 📫 &nbsp;Let's Connect
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/hostaka.fun-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://hostaka.fun/profile?u=mishachan)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Misha-Chan)
+<a href="https://hostaka.fun/profile?u=mishachan">
+  <img src="https://img.shields.io/badge/Website-hostaka.fun-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+</a>
+<a href="https://github.com/Misha-Chan">
+  <img src="https://img.shields.io/badge/GitHub-Misha--Chan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://github.com/Misha-Chan?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-20-0e75b6?style=for-the-badge&logo=gitbook&logoColor=white" alt="Repositories" />
+</a>
+
+<br/><br/>
+
+<i>“Code is like humor. When you have to explain it, it's bad.”</i><br/>
+<b>— Cory House</b>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+### ⭐ Thanks for stopping by — see you in the commits!
 
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=110&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0e75b6&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
