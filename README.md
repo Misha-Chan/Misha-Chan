@@ -165,10 +165,6 @@ website:    https://hostaka.fun
 
 <br/><br/>
 
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Misha-Chan&theme=tokyonight" alt="Profile Summary" />
-
-<br/><br/>
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Misha-Chan&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 </div>
